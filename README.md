@@ -4,7 +4,7 @@
 <!--                         HERO BANNER                                -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img src="./assets/hero-banner.png" alt="A. Sudalai Muthu — Full Stack Developer & AI Engineer" width="70%" style="border-radius:8px;"/>
+<img src="./assets/hero-banner.png" alt="A. Sudalai Muthu — Full Stack Developer & AI Engineer" width="50%" style="border-radius:6px;"/>
 
 <br/><br/>
 
