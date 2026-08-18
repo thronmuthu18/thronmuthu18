@@ -330,14 +330,13 @@ The architecture I work toward when building AI-integrated applications:
 
 <img src="https://github-readme-stats-pink-beta-9ci25untl9.vercel.app/api?username=thronmuthu18&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" width="47%"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thronmuthu18&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" width="47%"/>
+<img src="https://github-readme-stats-pink-beta-9ci25untl9.vercel.app/api/top-langs/?username=thronmuthu18&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" width="47%"/>
 
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=thronmuthu18&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff" alt="GitHub Streak" width="60%"/>
 
 </div>
-
 <br/>
 
 ---
