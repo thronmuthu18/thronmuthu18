@@ -345,7 +345,7 @@ The architecture I work toward when building AI-integrated applications:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thronmuthu18&theme=github-compact&bg_color=0d1117&color=00d4ff&line=7c3aed&point=00d4ff&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thronmuthu18&theme=github-compact&bg_color=0d1117&color=00d4ff&line=7c3aed&point=00d4ff&area=true&hide_border=true&v=1" alt="Contribution Graph" width="100%"/>
 
 </div>
 
