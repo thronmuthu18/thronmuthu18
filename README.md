@@ -217,18 +217,23 @@ CV Builder is a frontend-driven web application that enables users to build stru
 
 ### 🏗️ CB Builders — Real-World Business Website
 
-> A professional website built for a real-world construction business client.
+> A professional business website developed for a real-world construction business, focused on presenting services, company information, and a modern digital presence.
 
-CB Builders is a client-facing business website built using modern frontend technologies. This project demonstrates practical web development for a real-world use case — translating business requirements into a functional, deployed web presence.
+CB Builders is a client-facing construction business website developed to provide a professional online presence and clearly present the company's services and business information through a modern, responsive web experience. This project demonstrates practical frontend development for a real-world client — translating business requirements into a functional, production-deployed web presence complete with an image gallery, service sections, animated scroll interactions, and a contact interface.
 
 | Detail | Info |
 |:---|:---|
 | **Type** | Business Website |
 | **Client Type** | Construction Business |
+| **Technology** | HTML · CSS · JavaScript · AOS · Swiper · Font Awesome |
+| **Deployment** | Netlify |
+| **Live App** | [cb-builders.netlify.app](https://cb-builders.netlify.app/) |
 | **Repository** | [CB-builders](https://github.com/thronmuthu18/CB-builders) |
 
 <div align="center">
 
+[![Open Live Website](https://img.shields.io/badge/Open%20Live%20Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://cb-builders.netlify.app/)
+&nbsp;
 [![Repository](https://img.shields.io/badge/View%20Repository-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thronmuthu18/CB-builders)
 
 </div>
