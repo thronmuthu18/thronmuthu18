@@ -1,12 +1,9 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                         HERO BANNER                                -->
+<!--                      HERO IDENTITY                                 -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img src="./assets/hero-banner.png" alt="A. Sudalai Muthu — Full Stack Developer & AI Engineer" width="45%" style="border-radius:4.5px;"/>
-
-<br/><br/>
 
 <!-- Typing animation — name and titles -->
 <a href="https://github.com/thronmuthu18">
@@ -63,11 +60,13 @@
 
 ## About Me
 
-I am a **Computer Science & Engineering** student and **Full Stack Developer** based in Tirunelveli, Tamil Nadu, India.
+I am a **Computer Science & Engineering** student and **Full Stack Developer** based in Tirunelveli, Tamil Nadu, India. I build modern, production-oriented web applications that work across the full stack — crafting **frontend interfaces**, engineering **backend APIs**, integrating **databases**, and deploying to **cloud platforms**.
 
-I build modern, production-oriented web applications working across the full stack — from **frontend interfaces** to **backend APIs**, **databases**, and **cloud deployment**.
+My projects span real-world business websites, full stack web applications, and AI-powered applications — including a live multimodal AI assistant that handles **chat, voice, file, and image** workflows. I also build for real clients, translating practical business requirements into functional, deployed software.
 
-My current direction is expanding from core Full Stack development into **AI-powered applications** and **AI agent system design** — building software that integrates intelligent systems into real-world workflows.
+I work primarily with **React, TypeScript, Node.js, Express.js, MongoDB, and Python**, and I integrate AI capabilities through **LLM APIs and AI agent patterns** to build intelligent application experiences. My current direction is bridging solid Full Stack engineering with **AI-powered application development** and **AI agent system design** — building software where intelligent systems enhance real-world workflows.
+
+I approach problems from a production mindset: real deployments, real users, real outcomes.
 
 ```text
 Frontend    →  React · TypeScript · JavaScript · Tailwind CSS · HTML · CSS
@@ -76,6 +75,20 @@ Database    →  MongoDB · MySQL
 Deployment  →  Vercel · Netlify
 AI Focus    →  AI-powered applications · AI agent development · LLM integrations
 ```
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                   MAIN VISUAL — TECH STACK PIPELINE                -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="./assets/hero-banner.png" alt="Full Stack Developer — Frontend · Backend · API · Database · Cloud · AI · AI Agents · Multimodal" width="80%" style="border-radius:6px;"/>
+
+</div>
 
 <br/>
 
